@@ -1,13 +1,12 @@
 # My Very First Website
 
-Welcome!
+This is the first website I've designed as part of a Full Stack deveolper course with Code Institue
 
-## This is a H2
+## Website page:
+https://jfjohnston.github.io/my-first-website/
 
-### This is a H3
+### Skills involved
 
-#### This is a H4
+For this I've learned basic HTML, CSS, CLI and GIT. 
+Management of this code was done using Cloud9.
 
-##### This is a H5
-
-###### This is a H6
